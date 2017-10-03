@@ -1,0 +1,42 @@
+FINAL SCORE of WRITTEN SECTION for A3 3a-4:: 23
+
+
+3a: 10
+Comments: 
+3b: 3
+Comments: -2, the inductive hypothesis is If T(n) is true then T(n+1) is also true, not T(n-1)
+4: 10
+Comments: 
+For questions regarding 3a please contact Bowen at bowen.tian@mail.mcgill.ca
+For questions regarding 3b please contact Pavel at pavel.kondratyev@mail.mcgill.ca
+For questions regarding 4 please contact Yue at yue.wang8@mail.mcgill.ca
+
+FINAL SCORE for A3Q1 : 50
+
+Method evaluate
+10
+1stTest 5.0/5 TestPassed
+2ndTest 5.0/5 TestPassed
+3rdTest 5.0/5 TestPassed
+4thTest 5.0/5 TestPassed
+5thTest 5.0/5 TestPassed
+6thTest 5.0/5 TestPassed
+7thTest 5.0/5 TestPassed
+8thTest 5.0/5 TestPassed
+9thTest 5.0/5 TestPassed
+10thTest 5.0/5 TestPassed
+50.0/50
+navin.mordani@mail.mcgill.ca
+
+FINAL SCORE for A3Q2 : 15
+
+Method setupDeck
+5
+1stTest 3.0/3 TestPassed
+2ndTest 3.0/3 TestPassed
+3rdTest 3.0/3 TestPassed
+4thTest 3.0/3 TestPassed
+5thTest 3.0/3 TestPassed
+15.0/15
+navin.mordani@mail.mcgill.ca
+RAW TOTAL SCORE:  88.0 OUT OF 90

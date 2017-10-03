@@ -1,0 +1,18 @@
+FINAL SCORE for A5Q2 : 100
+
+3X3 Puzzle
+7
+1stTest 10/10 TestPassed
+2ndTest 10/10 TestPassed
+3rdTest 10/10 TestPassed
+4thTest 10/10 TestPassed
+5thTest 10/10 TestPassed
+6thTest 10/10 TestPassed
+7thTest 10/10 TestPassed
+70.0/70
+Originality 20/20
+20.0/20
+Style 10/10
+10.0/10
+zheng.dai@mail.mcgill.ca
+TOTAL RAW SCORE:  100  out of 100

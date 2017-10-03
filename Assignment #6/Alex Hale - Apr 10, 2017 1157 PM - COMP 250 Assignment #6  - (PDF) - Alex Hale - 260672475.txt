@@ -1,0 +1,20 @@
+FINAL SCORE for A6 Q1-Q4: 93 OUT OF 100
+
+Q1: 25
+comments: 
+Q2: 10
+comments: b) wrong -5 / it is because of space/time requirements
+Q3a: 10
+comments: 
+Q3b: 10
+comments: 
+Q4a: 18
+comments: -2 You never updated the variable eccentricity
+Q4b: 20
+comments: 
+For questions regarding Q1 please contact Bowen at bowen.tian@mail.mcgill.ca
+For questions regarding Q2 please contact Omar at omar.asad@mail.mcgill.ca
+For questions regarding Q3a please contact Caitrin at caitrin.armstrong@mail.mcgill.ca
+For questions regarding Q3b please contact Caitrin at caitrin.armstrong@mail.mcgill.ca
+For questions regarding Q4a please contact David at david.becerraromero@mail.mcgill.ca
+For questions regarding Q4b please contact Jack at hong.c.guo@mail.mcgill.ca

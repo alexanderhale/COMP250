@@ -1,0 +1,41 @@
+FINAL SCORE of WRITTEN SECTION for A2 Q1-Q8: 77
+
+Q1: 19
+Q1 COMENTS: Q1(b). -1, incorrect T(n) calculation
+Q2: 8
+Q2 COMENTS: 
+Q3: 10
+Q3 COMENTS: 
+Q4: 10
+Q4 COMENTS: 
+Q5: 6
+Q5 COMENTS: A condition n>=1 for the inequality should be set!
+Q6: 8
+Q6 COMENTS: 
+Q7: 8
+Q7 COMENTS: 
+Q8: 8
+Q8 COMENTS: 
+Other Comments: 
+For questions regarding Q1 please contact Yue at yue.wang8@mail.mcgill.ca
+For questions regarding Q2 please contact Pavel at pavel.kondratyev@mail.mcgill.ca
+For questions regarding Q3 please contact Faizy at faizy.ahsan@mail.mcgill.ca
+For questions regarding Q4 please contact Bowen at bowen.tian@mail.mcgill.ca
+For questions regarding Q5 please contact Omar at omar.asad@mail.mcgill.ca
+For questions regarding Q6 please contact David at david.becerraromero@mail.mcgill.ca
+For questions regarding Q7 please contact Zheng at zheng.dai@mail.mcgill.ca
+For questions regarding Q8 please contact Caitrin at caitrin.armstrong@mail.mcgill.ca
+
+FINAL SCORE for A2Q9 : 20
+
+Method longestWord
+5
+1stTest 3.0/3 TestPassed
+2ndTest 3.0/3 TestPassed
+3rdTest 3.0/3 TestPassed
+4thTest 3.0/3 TestPassed
+5thTest 3.0/3 TestPassed
+Comments 5.0/5
+20.0/20
+navin.mordani@mail.mcgill.ca
+TOTAL RAW SCORE:  97.0  out of 100

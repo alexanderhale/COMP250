@@ -1,0 +1,33 @@
+FINAL SCORE of WRITTEN SECTION for A4 Q2-Q4: 50
+
+
+Q2: 16
+: 
+Q3: 20
+: 
+Q4: 14
+: 
+For questions regarding Q2 please contact David at david.becerraromero@mail.mcgill.ca
+For questions regarding Q3 please contact Omar at omar.asad@mail.mcgill.ca
+For questions regarding Q4 please contact Faizy at faizy.ahsan@mail.mcgill.ca
+
+FINAL SCORE for A4Q1 : 40
+
+Method evaluate
+5
+1stTest 3.0/3 TestPassed
+2ndTest 3.0/3 TestPassed
+3rdTest 3.0/3 TestPassed
+4thTest 3.0/3 TestPassed
+5thTest 3.0/3 TestPassed
+15.0/15
+Method differentiate
+5
+1stTest 5.0/5 TestPassed
+2ndTest 5.0/5 TestPassed
+3rdTest 5.0/5 TestPassed
+4thTest 5.0/5 TestPassed
+5thTest 5.0/5 TestPassed
+25.0/25
+navin.mordani@mail.mcgill.ca
+TOTAL TOTAL SCORE:  90.0  out of 90

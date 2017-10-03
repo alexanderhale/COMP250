@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ExpressionTest&apos; to &apos;ExpressionWithQueues&apos;&#x0D;&#x0A;- Original project: &apos;Assignment #3&apos;&#x0D;&#x0A;- Original element: &apos;ExpressionTest&apos;&#x0D;&#x0A;- Renamed element: &apos;ExpressionWithQueues&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ExpressionTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{ExpressionTest.java[ExpressionTest" matchStrategy="1" name="ExpressionWithQueues" qualified="false" references="true" similarDeclarations="false" stamp="1489028396046" textual="false" version="1.0"/>
+</session>
